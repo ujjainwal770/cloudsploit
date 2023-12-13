@@ -13,8 +13,8 @@ module.exports = {
             // OPTION 1: If using a credential JSON file, enter the path below
             // credential_file: 'config.json',
             // OPTION 2: If using hard-coded credentials, enter them below
-            access_key: '',
-            secret_access_key: '',
+            access_key: 'access_key_update_here',
+            secret_access_key: 'secret_key_update_here',
             // session_token: process.env.AWS_SESSION_TOKEN || '',
             // plugins_remediate: ['bucketEncryptionInTransit']
         },
